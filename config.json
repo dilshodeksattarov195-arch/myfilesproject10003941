@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterspdate",
+        "uuid": 13919612,
+        "checksum": "psmoel"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
